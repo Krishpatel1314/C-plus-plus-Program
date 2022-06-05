@@ -35,6 +35,20 @@ class Class
             {
                 cout<<"Marks of Subject "<<i+1<<":"<<marks[i]<<endl;
             }
+            if (per>80)
+            {
+                cout<<"Passed with distinction"<<endl;
+            }
+            else if (per>60)
+            {
+                cout<<"Passed with First Class"<<endl;
+            }
+            else if (per>40)
+            {
+                cout<<"Passed with Second Class"<<endl;
+            }
+            else
+            cout<<"Failed"<<endl; 
             cout<<"Percentage of student:"<<per<<"%"<<endl;
         }
     }s[50];
