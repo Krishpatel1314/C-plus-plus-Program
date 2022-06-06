@@ -50,4 +50,5 @@ int main()
     d1.get();
     d2.get();
     s.add(d1,d2);
+    return 0;
 }
