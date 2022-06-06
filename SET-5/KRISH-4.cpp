@@ -32,14 +32,6 @@ class student
             total=total+marks[i];
         } 
     }
-    // float sum()
-    // {
-    //     for (int i = 0; i < 6; i++)
-    //     {
-            
-    //     }
-    //     return 
-    // }
     char grade()
     {
         if (per>=80)
@@ -54,7 +46,6 @@ class student
     }
     void displaydata()
     {
-        //sum();
         per=total/6;
         cout<<setw(20)<<name<<setw(20)<<rollno<<setw(20)<<per<<setw(20)<<grade()<<endl;
     }
