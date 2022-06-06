@@ -20,7 +20,6 @@ class player
         cin.ignore();
         getline(cin, tname);
         cout<<"Enter player name:";
-        //cin.ignore();
         getline(cin, pname);
         cout<<"Enter batting average:";
         cin>>batavg;
