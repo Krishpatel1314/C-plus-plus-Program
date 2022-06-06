@@ -8,15 +8,15 @@ class matrix
     int r,c;
     public:
     matrix(int r,int c)
-	{
-		this->r=r;
+    {
+	this->r=r;
         this->c=c;
         for(int i=0;i<r;i++)
     	{
             for(int j=0;j<c;j++)
-			m[i][j]=0;
-		}
+	    m[i][j]=0;
 	}
+    }
     void get()
     {
         for (int i = 0; i < r; i++)
