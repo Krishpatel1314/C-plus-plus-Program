@@ -4,31 +4,30 @@ using namespace std;
 
 class String
 {
-	char str[20];
+	string str;
 	public:
 	String()
 	{
-		str[0]='\0';
+		str="";
 	}
 	void get()
 	{
 		cout<<"Enter a string:";
-		gets(str);
+		getline(cin,str);
 	}
 	void display()
 	{
 		cout<<"The String is:";
-		puts(str);
+		cout<<str;
 	}
 	void add(String j,String k)
 	{
-		strcat(j.str," ");
-		strcat(str,strcat(j.str,k.str));
+		str=j.str+" "+k.str;
         display();
 	}
 	~String()
 	{
-		str[0]='\0';
+		str="";
 	}
 };
 
