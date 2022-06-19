@@ -59,6 +59,7 @@ class complex
 int main()
 {
     complex c1,c2,c3;
+    cout<<"Hell";
     c1.get();
     c2.get();
     cout<<"=================ADDITION===================="<<endl;
