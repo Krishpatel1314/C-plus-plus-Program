@@ -37,7 +37,7 @@ class player
     void displaydata()
     {
         avg=runs/test;
-        cout<<setw(15)<<name<<setw(15)<<age<<setw(15)<<runs<<setw(15)<<hi<<setw(15)<<lo<<setw(15)<<test<<setw(20)<<avg;
+        cout<<setw(15)<<name<<setw(15)<<age<<setw(15)<<runs<<setw(15)<<hi<<setw(15)<<lo<<setw(15)<<test<<setw(20)<<avg<<endl;
     }
 };
 int main()

@@ -26,7 +26,7 @@ class item
     void displaydata()
     {
         total_price=cost*qty;
-        cout<<setw(20)<<code<<setw(20)<<cost<<setw(20)<<qty<<setw(20)<<total_price;
+        cout<<setw(20)<<code<<setw(20)<<cost<<setw(20)<<qty<<setw(20)<<total_price<<endl;
     }
 };
 
