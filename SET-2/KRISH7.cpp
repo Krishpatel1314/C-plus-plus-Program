@@ -6,7 +6,7 @@ int main()
 {
     float j[20],k[20],l[20],n,sum[20];
     string name[50];
-    cout<<"Enter no. of data you wish to enter:";
+    cout<<"Enter no.  of data you wish to enter:";
     cin>>n;
     for(int i=0;i<n;i++)
     {
