@@ -13,6 +13,6 @@ int main()
 {
     repchar();
     repchar('=');
-    repchar('+', 30) ;
+    repchar('+', 30);
     return 0;
 }
