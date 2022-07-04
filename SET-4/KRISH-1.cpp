@@ -51,7 +51,7 @@ int main()
         p[i].getdata();   
     }
     cout<<setw(15)<<"Name"<<setw(15)<<"Age"<<setw(15)<<"Runs"<<setw(15)<<"Highest Score"<<setw(15)<<"Lowest Score"<<setw(15)<<"Test"
-    <<setw(20)<<"Batting Average"<<endl ;
+    <<setw(20)<<"Batting Average"<<endl;
     for ( int i = 0; i < n; i++)
     {
         p[i].displaydata();   
