@@ -1,5 +1,5 @@
 /*WAP to convert from ton to Kg & gms and vice-versa. Create two classes for the same.
-Class tons (with ton as data member) and Class kilo (with kg and gms as data members) 
+Class tons(with ton as data member) and Class kilo (with kg and gms as data members) 
 Use formula 1 ton = 100 kg, 1kg = 1000gms*/
 #include<iostream>
 using namespace std;
