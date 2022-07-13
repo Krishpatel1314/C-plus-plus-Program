@@ -1,4 +1,4 @@
-/*Create a class player with following data members Player,name, Team name, Batting average, Read data for 
+/*Create a class player with following data members Player,name, Team name,Batting average, Read data for 
 10 payers, Use constructors and destructors properly and write member function for each of the following
 a. To get the data
 b. To display the data
