@@ -2,7 +2,7 @@
 Write member functions for each of the following
 a. To get the data
 b. To display the data
-c. To calculate the average of the player*/
+c. To calculate the average of the player */
 #include<iostream>
 #include<iomanip>
 using namespace std;
