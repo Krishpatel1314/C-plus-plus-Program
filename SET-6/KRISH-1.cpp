@@ -1,4 +1,4 @@
-/*Rewrite complex class (from assignment 5) using operator overloading concept. i.e. overload (+,-,*,/)*/
+/*Rewrite complex class (from assignment 5) using operator overloading concept. i.e.overload (+,-,*,/)*/
 #include<iostream>
 using namespace std;
 
