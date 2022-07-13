@@ -1,7 +1,7 @@
 /*Assume that Circle is defined using radius and Cylinder is defined using radius and height.
 Write a Circle class as base class and inherit the Cylinder class from it. Develop classes
 such that user can compute the area of Circle objects and volume of Cylinder objects. Area of Circle 
-is pie *radius*radius, while volume of Cylinder is pie*(radius * radius)*height.*/
+is pie *radius*radius, while volume of Cylinder is pie*(radius * radius)*height. */
 
 #include<iostream>
 using namespace std;
