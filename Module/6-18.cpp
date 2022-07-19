@@ -35,3 +35,9 @@ int main()
     b2.display();
     b1 >= b2;
 }
+// OUTPUT:
+// NAme:-a
+// Weight:-15
+// NAme:-b
+// Weight:-25
+// a15b25False
