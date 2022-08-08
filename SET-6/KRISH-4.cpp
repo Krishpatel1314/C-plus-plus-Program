@@ -68,3 +68,11 @@ int main()
     s1!=s2;
 	return 0;
 }
+
+/*
+OUTPUT:
+Enter a string:Hello
+Enter a string:C++  
+String one is Greater
+Both the strings are unequal
+*/

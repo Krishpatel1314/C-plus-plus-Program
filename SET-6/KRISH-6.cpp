@@ -130,3 +130,17 @@ int main()
     d1!=d2;
 	return 0;
 }
+
+/*
+OUTPUT:
+Enter a day:22
+Enter a month:04
+Enter a year:2004
+Enter a day:13
+Enter a month:03
+Enter a year:2003
+The date is:22/4/2004
+The date is:13/3/2003
+Date one is Smaller
+Both dates are not equal
+*/

@@ -80,3 +80,27 @@ int main()
     s1<s2;
     s1>s2;
 }
+
+/*
+OUTPUT:
+Enter the name of student:Krish Patel
+Enter roll no of student:1
+Enter marks of subject 1:78
+Enter marks of subject 2:67
+Enter marks of subject 3:89
+Enter marks of subject 4:87
+Enter marks of subject 5:74
+Enter marks of subject 6:91
+Enter the name of student:Diya Patel
+Enter roll no of student:2
+Enter marks of subject 1:89
+Enter marks of subject 2:79
+Enter marks of subject 3:94
+Enter marks of subject 4:85
+Enter marks of subject 5:82
+Enter marks of subject 6:77
+     Name of student              Rollno          Percentage               Grade
+          Krish Patel                  1                  81         Distinction
+          Diya Patel                   2             84.3333         Distinction
+Student one percentage is Smaller
+*/

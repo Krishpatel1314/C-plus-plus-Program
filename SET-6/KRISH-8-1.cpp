@@ -75,3 +75,19 @@ int main()
     c3.display();
     return 0;
 }
+
+/*
+OUTPUT:
+Enter real number:3
+Enter image number:7
+Enter real number:2
+Enter image number:4
+=================ADDITION====================
+5+11i
+================SUBTRACTION==================
+1+3i
+===============MULTIPLICATION================
+-22+26i
+==================DIVISION===================
+1.7+-0.6i
+*/

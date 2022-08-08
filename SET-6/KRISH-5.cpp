@@ -69,3 +69,15 @@ int main()
     d1!=d2;
     return 0;
 }
+
+/*
+OUTPUT:
+Enter the feet:5
+Enter the inches:9
+Enter the feet:3
+Enter the inches:17
+Distance:5ft  9inch 
+Distance:4ft  5inch
+Distance one is Greater
+Both distances are unequal
+*/

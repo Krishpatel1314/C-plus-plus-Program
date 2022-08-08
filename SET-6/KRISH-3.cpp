@@ -126,3 +126,12 @@ int main()
 	++d;
 	return 0;
 }
+
+/*
+OUTPUT:
+Enter a day:22
+Enter a month:03
+Enter a year:2004
+The date is:22/3/2004
+Next Day is:23/3/2004
+*/

@@ -118,3 +118,31 @@ int main()
     c.display();
     return 0;
 }
+
+/*
+OUTPUT:
+Enter the first matrix:
+1 2 3    
+4 5 6
+7 8 9
+Enter the second matrix:
+4 5 6
+1 2 3
+8 2 4
+Addition of two matrix
+      5      7      9
+      5      7      9
+     15     10     13
+Subtraction of two matrix
+     -3     -3     -3
+      3      3      3
+     -1      6      5
+Multiplication of two matrix
+      4     10     18
+      4     10     18
+     56     16     36
+Division of two matrix
+   0.25    0.4    0.5
+      4    2.5      2
+  0.875      4   2.25
+*/

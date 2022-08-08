@@ -72,3 +72,13 @@ int main()
     t1!=t2;
     return 0;
 }
+
+/*
+OUTPUT:
+Enter time in seconds:7823
+Enter time in seconds:6732
+Converted Time:2 hrs :10 min :23 sec
+Converted Time:1 hrs :52 min :12 sec
+Time one is Greater
+Both times are unequal
+*/
