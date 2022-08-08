@@ -33,3 +33,11 @@ int main()
     s2.display();
     return 0;
 }
+
+/*
+OUTPUT:
+Enter String 1:Hello
+Enter String 2:C++
+String 1:Hello
+String 2:C++
+*/

@@ -75,3 +75,19 @@ int main()
     m1.display();
     return 0;
 }
+
+/*
+OUTPUT:
+Enter the first matrix:
+1 2 3
+4 5 6
+7 8 9
+Enter the second matrix:
+3 4 5
+2 7 3 
+1 3 2
+Addition of two matrix
+      4      6      8
+      6     12      9
+      8     11     11
+*/

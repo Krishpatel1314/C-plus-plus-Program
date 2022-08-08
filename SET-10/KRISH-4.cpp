@@ -62,3 +62,13 @@ int main()
     add(d1,d2);
     return 0;
 }
+
+/*
+OUTPUT:
+Enter distance in Meters:5
+Enter distance in centimeters:20 
+Enter distance in feets:3
+Enter distance in inches:11
+Meter:5.91463
+Centimeter:47.9401
+*/
