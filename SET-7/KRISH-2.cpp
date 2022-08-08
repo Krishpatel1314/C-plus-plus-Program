@@ -100,3 +100,17 @@ int main()
     b.conversion(a);
     return 0;
 }
+
+/*
+OUTPUT:
+Enter time in 12HRS format
+Enter Hours:4
+Enter Minutes:30
+Enter Seconds:30
+16hrs :30min :30sec pm
+Enter time in 24HRS format
+Enter Hours:16
+Enter Minutes:30
+Enter Seconds:30
+4hrs :30min :30sec pm
+*/

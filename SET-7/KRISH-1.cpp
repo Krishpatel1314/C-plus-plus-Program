@@ -66,3 +66,12 @@ int main()
     k.conversion(x);
     return 0;
 }
+
+/*
+OUTPUT:
+Enter the value in tons:2
+Values in KG:200 & GMS:2000
+Enter the values in KG:2000
+Enter the values in GMS:3432
+Values in tons:11.716
+*/

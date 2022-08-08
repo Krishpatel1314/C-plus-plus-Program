@@ -40,3 +40,9 @@ int main()
     float m=d1;
     cout<<"M:"<<m;
 }
+
+/*
+OUTPUT:
+Distace : km:2, m:0
+M:2
+*/
