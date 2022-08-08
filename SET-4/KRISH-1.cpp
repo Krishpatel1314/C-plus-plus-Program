@@ -57,3 +57,33 @@ int main()
         p[i].displaydata();   
     }
 }
+
+/*
+OUTPUT:
+Enter no. of players data you wish to enter:3
+DETAILS OF THE PLAYER
+Enter Name of the player:Sachin
+Enter Age of the player:42
+Enter total runs of the player:57392
+Highest Score of the player:167
+Lowest Score of the player:12
+No .of Test match played by the player:256
+DETAILS OF THE PLAYER
+Enter Name of the player:Virat Kholi
+Enter Age of the player:32
+Enter total runs of the player:67293
+Highest Score of the player:188
+Lowest Score of the player:4
+No .of Test match played by the player:189
+DETAILS OF THE PLAYER
+Enter Name of the player:M.S.Dhoni
+Enter Age of the player:40
+Enter total runs of the player:57233
+Highest Score of the player:152
+Lowest Score of the player:7
+No .of Test match played by the player:127
+           Name            Age           Runs  Highest Score   Lowest Score           Test     Batting Average
+         Sachin             42          57392            167             12            256             224.188
+    Virat Kholi             32          67293            188              4            189             356.048
+      M.S.Dhoni             40          57233            152              7            127             450.654
+*/

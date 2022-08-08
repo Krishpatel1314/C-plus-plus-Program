@@ -22,3 +22,9 @@ int main()
     cout<<object::count; 
     return 0;
 }
+
+/*
+OUTPUT:
+Enter no. of data you want to enter:3
+No. of objects created is 3
+*/

@@ -50,3 +50,19 @@ int main()
         b[i].displaydata();
     }
 }
+
+/*
+OUTPUT:
+Enter no. of data you wish to enter:2
+Enter book name:Engineering Graphics
+Enter author name:P.J.Shah
+Enter Rate of the book:750
+Enter quantity of book:3
+Enter book name:Basic Concept of OOp
+Enter author name:Robert 
+Enter Rate of the book:899
+Enter quantity of book:11
+           Book Name    Author Name   Rate of book    Quantity of book    Total Price
+Engineering Graphics       P.J.Shah            750                   3           2250
+Basic Concept of OOp        Robert             899                  11           9889
+*/

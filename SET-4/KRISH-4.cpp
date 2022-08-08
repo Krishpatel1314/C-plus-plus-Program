@@ -48,3 +48,10 @@ int main()
         t[i].displaydata();
     }
 }
+
+/*
+OUTPUT:
+Enter no. of data you wish to enter:1
+Enter time in seconds:56283
+Converted Time:15 hrs :38 min :3 sec
+*/

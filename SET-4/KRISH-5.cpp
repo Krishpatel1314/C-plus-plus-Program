@@ -84,3 +84,65 @@ int main()
             }  
         }
     }
+
+/*
+OUTPUT:
+Enter no. of class you wish to enter:2
+Enter no. of student in class 1:2
+Enter the name of student:Krish Patel
+Enter roll no of student:1
+Enter marks of subject 1:78
+Enter marks of subject 2:81
+Enter marks of subject 3:67
+Enter marks of subject 4:92
+Enter marks of subject 5:65
+Enter marks of subject 6:82
+Enter the name of student:Diya Patel
+Enter roll no of student:2
+Enter marks of subject 1:89
+Enter marks of subject 2:94
+Enter marks of subject 3:78
+Enter marks of subject 4:91
+Enter marks of subject 5:78
+Enter marks of subject 6:93
+Enter no. of student in class 2:1
+Enter the name of student:Rohan
+Enter roll no of student:1
+Enter marks of subject 1:82
+Enter marks of subject 2:59
+Enter marks of subject 3:67
+Enter marks of subject 4:78
+Enter marks of subject 5:91
+Enter marks of subject 6:54
+---------CLASS DETAILS----------
+Name of student:Krish Patel
+Roll no of student:1
+Marks of Subject 1:78
+Marks of Subject 2:81
+Marks of Subject 3:67
+Marks of Subject 4:92
+Marks of Subject 5:65
+Marks of Subject 6:82
+Passed with First Class
+Percentage of student:77.5%
+Name of student:Diya Patel
+Roll no of student:2
+Marks of Subject 1:89
+Marks of Subject 2:94
+Marks of Subject 3:78
+Marks of Subject 4:91
+Marks of Subject 5:78
+Marks of Subject 6:93
+Passed with distinction
+Percentage of student:87.1667%
+Name of student:Rohan
+Roll no of student:1
+Marks of Subject 1:82
+Marks of Subject 2:59
+Marks of Subject 3:67
+Marks of Subject 4:78
+Marks of Subject 5:91
+Marks of Subject 6:54
+Passed with First Class
+Percentage of student:71.8333%
+*/

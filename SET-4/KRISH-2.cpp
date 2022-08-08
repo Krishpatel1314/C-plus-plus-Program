@@ -46,4 +46,17 @@ int main()
         item[i].displaydata();
     }
 }
-    
+
+/*
+OUTPUT:
+Enter no. of data you wish to enter:2
+Enter code of item:1
+Enter Cost of item:190
+Enter Quantity of item:13
+Enter code of item:2
+Enter Cost of item:210
+Enter Quantity of item:22
+        Code of item        Cost of item    Quantity of item         Total Price
+                   1                 190                  13                2470
+                   2                 210                  22                4620
+*/  
