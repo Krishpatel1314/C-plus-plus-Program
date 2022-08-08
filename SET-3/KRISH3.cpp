@@ -22,3 +22,11 @@ void zerosmaller(int &a, int &b)
     else
     b=0;
 }
+
+/*
+OUTPUT:
+Enter first number:13
+Enter second number:22
+First number:0
+Second number:22
+*/

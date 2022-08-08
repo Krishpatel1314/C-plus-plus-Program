@@ -21,3 +21,10 @@ int main()
     show("Thirteen");
     return 0;
 }
+
+/*
+OUTPUT:
+Here integer is 13
+Here float is 13.13
+Here string is Thirteen
+*/

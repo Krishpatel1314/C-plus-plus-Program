@@ -34,3 +34,11 @@ int main()
     }
     return 0;
 }
+
+/*
+OUTPUT:
+Enter the number:13
+Want to change the power?[y/n]:y
+Enter the power:3
+The answer is 2197
+*/

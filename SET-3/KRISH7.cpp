@@ -18,3 +18,9 @@ int main()
     convert(13.5,'m');
     return 0;
 }
+
+/*
+OUTPUT:
+ASCII to integer:77
+ASCII to float:122.5
+*/

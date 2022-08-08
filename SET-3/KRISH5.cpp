@@ -16,3 +16,9 @@ using namespace std;
      show(14,'K');
      return 0;
  }
+
+ /*
+OUTPUT:
+13
+14    K
+*/
