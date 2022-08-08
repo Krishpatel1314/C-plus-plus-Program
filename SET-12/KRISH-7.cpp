@@ -19,3 +19,7 @@ int main()
   cout<<"Addition of m and n is :"<<add(m,n);  
   return 0;  
 }  
+
+// OUTPUT:
+// Addition of i and j is :22
+// Addition of m and n is :3.5

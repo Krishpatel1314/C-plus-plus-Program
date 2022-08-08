@@ -30,3 +30,7 @@ int main()
     }
     cout<<"\n Hello";
 }
+
+// OUTPUT:
+// Caught exception : int type 
+//  Hello

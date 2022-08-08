@@ -31,3 +31,9 @@ int main()
     s2.display();
     return 0;
 }
+
+/*
+OUTPUT:
+Normal constructor : 10
+Copy constructor : 10
+*/

@@ -28,3 +28,9 @@ int main()
     t1.print();
     return 0;
 }
+
+/*
+OUTPUT:
+Enter a number:3
+x = 3
+*/

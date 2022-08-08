@@ -33,3 +33,7 @@ int main()
     cout << j << "   " << k << endl;
 	return 0;
 }
+
+// OUTPUT:
+// 20   10
+// 15.7   13.5
