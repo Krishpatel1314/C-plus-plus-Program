@@ -72,3 +72,15 @@ int main()
     e1.display();
     return 0;
 }
+
+/*
+OUTPUT:
+Enter the name of employee:Krish Patel
+Enter the code of employee:1
+Enter the amount:75000
+Enter the experience:1
+Name of the employee:Krish Patel
+Code of the employee:1
+Amount:75000
+Experience:1
+*/

@@ -53,13 +53,11 @@ class tape: public publication
     public:
     void get2()
     {
-        get();
         cout<<"Enter no. of mins:";
         cin>>mins;
     }
     void display2()
     {
-        display();
         cout<<"No. of mins:"<<mins<<endl;
     }
 };
@@ -73,3 +71,15 @@ int main()
     t1.display2();
     return 0;
 }
+
+/*
+OUTPUT:
+Enter the name of book:Engg Graphics
+Enter the price of book:750
+Enter no. of pages:1597
+Enter no. of mins:55
+Name of book:ngg Graphics
+Price of book:750
+No. of pages:1597
+No. of mins:55
+*/

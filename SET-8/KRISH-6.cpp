@@ -92,3 +92,23 @@ int main()
     t1.display3();
     return 0;
 }
+
+/*
+OUTPUT:
+Enter the name of book:Basic Concept of OOP
+Enter the price of book:850
+Enter no. of sales:20
+Enter no. of pages:2500
+Enter the name of book:Basic Concept of OOP
+Enter the price of book:850
+Enter no. of sales:20
+Enter no. of mins:120
+Name of book:asic Concept of OOP
+Price of book:850
+No. of Sales:20
+No. of pages:2500
+Name of book:Basic Concept of OOP
+Price of book:850
+No. of Sales:20
+No. of mins:120
+*/

@@ -49,3 +49,10 @@ int main()
     h1.display1();
     return 0;
 }
+
+/*
+OUTPUT:
+First name:Mohan
+Last name:Sharma
+Payment:500
+*/

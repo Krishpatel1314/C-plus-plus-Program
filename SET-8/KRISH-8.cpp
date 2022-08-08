@@ -77,3 +77,21 @@ int main()
     cout<<"===================================="<<endl;
     i.display3();
 }
+
+/*
+OUTPUT:
+Enter roll no:1
+Enter University Name:KPGU
+Enter no. of courses in CE:5
+Enter roll no:1
+Enter University Name:KPGU
+Enter no. of courses in IT:7
+====================================
+Roll no.:1
+University Name:KPGU
+No. of courses in CE:5
+====================================
+Roll no.:1
+University Name:KPGU
+No. of courses in IT:7
+*/

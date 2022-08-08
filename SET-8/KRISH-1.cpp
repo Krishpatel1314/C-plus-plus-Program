@@ -48,3 +48,10 @@ int main()
     return 0;
 }
 
+/*
+OUTPUT:
+Enter the radius:6.5
+Enter the height:9.3
+Area of circle:132.665
+Volume of cylinder:1233.78
+*/
