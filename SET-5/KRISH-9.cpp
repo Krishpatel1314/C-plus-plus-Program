@@ -59,3 +59,10 @@ int main()
     s.add(t1,t2);
     return 0;
 }
+
+/*
+OUTPUT:
+Enter time in seconds:5672
+Enter time in seconds:7832
+Converted Time:3 hrs :44 min :64 sec
+*/

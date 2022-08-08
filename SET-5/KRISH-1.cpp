@@ -101,3 +101,27 @@ int main()
     }
     return 0;
 }
+
+/*
+OUTPUT:
+Enter no. of data you want to enter:3
+Enter Team name:India
+Enter player name:Virat Kholi
+Enter batting average:57.43
+Enter Team name:Austrailia
+Enter player name:Glenn Maxwell
+Enter batting average:69.23
+Enter Team name:India
+Enter player name:M.S.Dhoni
+Enter batting average:65.34
+------------------------SORTING BY BATTING AVG-----------------------------------
+           Team Name         Player Name     Batting Average
+               India         Virat Kholi               57.43
+               India           M.S.Dhoni               65.34
+          Austrailia       Glenn Maxwell               69.23
+------------------------SORTING BY TEAM NAME-----------------------------------
+           Team Name         Player Name     Batting Average
+          Austrailia       Glenn Maxwell               69.23
+               India           M.S.Dhoni               65.34
+               India         Virat Kholi               57.43
+*/

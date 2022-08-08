@@ -44,3 +44,10 @@ int main()
 	s.add(s1,s2);
 	return 0;
 }
+
+/*
+OUTPUT:
+Enter a string:Hello!
+Enter a string:I am Krish Patel
+The String is:Hello! I am Krish Patel
+*/

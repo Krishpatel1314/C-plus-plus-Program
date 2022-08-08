@@ -57,3 +57,12 @@ int main()
     s.add(d1,d2);
     return 0;
 }
+
+/*
+OUTPUT:
+Enter the feet:3
+Enter the inches:15
+Enter the feet:5
+Enter the inches:18
+Distance:10ft  9inch 
+*/

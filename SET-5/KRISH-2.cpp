@@ -93,3 +93,22 @@ int main()
     return 0;   
 }
 
+/*
+OUTPUT:
+Enter no.of data you want to enter:2
+Enter Book name:Engg Graphics
+Enter no. of quantity:5
+Enter Author name:P.J.Shah
+Enter price of book:750
+Enter Book name:Basic Concept of OOP
+Enter no. of quantity:3
+Enter Author name:Robert
+Enter price of book:800
+           Book name         Author name       Quantity               Price         Total Price
+       Engg Graphics            P.J.Shah              5                 750                3750
+Basic Concept of OOP              Robert              3                 800                2400
+-------------------------------------------SORTED BY TOTAL PRICE-----------------------------------------
+           Book name         Author name       Quantity               Price         Total Price
+Basic Concept of OOP              Robert              3                 800                2400
+       Engg Graphics            P.J.Shah              5                 750                3750
+*/

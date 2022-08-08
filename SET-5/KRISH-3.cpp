@@ -86,3 +86,30 @@ int main()
     j.search(c,n);
     return 0;    
 }
+
+/*
+OUTPUT:
+Enter no.of data you want to enter:2
+Enter the Title:Engg Graphics
+Enter year of publication:2009
+Enter the name of author:P.J.Shah
+Enter the no. of copies:15
+Enter the Title:C++ concepts
+Enter year of publication:2012
+Enter the name of author:Robert
+Enter the no. of copies:17
+Title:Engg Graphics
+Author:P.J.Shah
+Year of publication:2009
+No. of copies:15
+Title:C++ concepts
+Author:Robert
+Year of publication:2012
+No. of copies:17
+Enter the title you want to search:Engg Graphics
+====Record Found!!====
+Title:Engg Graphics
+Author:P.J.Shah
+Year of publication:2009
+No. of copies:15
+*/

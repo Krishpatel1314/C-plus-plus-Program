@@ -126,3 +126,33 @@ int main()
     c.div(a,b);
     return 0;
 }
+
+/*
+OUTPUT:
+Enter no. of rows:3
+Enter no. of columns:3
+Enter the first matrix:
+1 3 5 
+2 4 6
+9 7 5
+Enter the second matrix:
+8 6 4
+1 3 5
+7 2 8
+Addition of two matrix
+      9      9      9
+      3      7     11
+     16      9     13
+Subtraction of two matrix
+     -7     -3      1
+      1      1      1
+      2      5     -3
+Multiplication of two matrix
+      8     18     20
+      2     12     30
+     63     14     40
+Division of two matrix
+  0.125    0.5   1.25
+      21.33333    1.2
+1.28571    3.5  0.625
+*/

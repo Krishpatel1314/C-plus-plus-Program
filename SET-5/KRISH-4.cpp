@@ -106,3 +106,31 @@ int main()
         s[i].displaydata();
     }
 }
+
+/*
+OUTPUT:
+Enter no.of data you want to enter:2
+Enter the name of student:Krish Patel
+Enter roll no of student:1
+Enter marks of subject 1:67
+Enter marks of subject 2:78
+Enter marks of subject 3:92
+Enter marks of subject 4:73
+Enter marks of subject 5:87
+Enter marks of subject 6:58
+Enter the name of student:Diya Patel
+Enter roll no of student:2
+Enter marks of subject 1:89
+Enter marks of subject 2:78
+Enter marks of subject 3:92
+Enter marks of subject 4:85
+Enter marks of subject 5:94
+Enter marks of subject 6:81
+     Name of student              Rollno          Percentage               Grade
+         Krish Patel                   1             75.8333         First Class
+          Diya Patel                   2                86.5         Distinction
+------------------------------SORTING OF PERCENTAGE-----------------------------
+     Name of student              Rollno          Percentage               Grade
+         Krish Patel                   1             75.8333         First Class
+          Diya Patel                   2                86.5         Distinction
+*/
