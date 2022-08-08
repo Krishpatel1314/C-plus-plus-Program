@@ -19,3 +19,6 @@ int main()
   cout << endl;
   return 0;
 }
+
+// OUTPUT:
+// Queue: Cat, Dog, 
