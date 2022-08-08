@@ -29,3 +29,9 @@ int main()
     ptr->display();
     return 0;
 }
+
+/*
+OUTPUT:
+The real part is 1
+The imaginary part is 54
+*/

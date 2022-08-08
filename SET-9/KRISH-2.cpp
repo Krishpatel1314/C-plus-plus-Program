@@ -75,3 +75,26 @@ int main()
     }
     return 0;
 }
+
+/*
+OUTPUT:
+Enter no. of data you wish to enter:2
+Enter the name of country:India
+Enter population of the country:9883938
+Enter the name of capital:Delhi
+Enter the name of country:Austrailia
+Enter population of the country:7327732 
+Enter the name of capital:Sydney
+Name of Country:India
+Name of Capital:Delhi
+Population of Country:9883938
+Name of Country:Austrailia
+Name of Capital:Sydney
+Population of Country:7327732
+Name of Country:Austrailia
+Name of Capital:Sydney
+Population of Country:7327732
+Name of Country:India
+Name of Capital:Delhi
+Population of Country:9883938
+*/

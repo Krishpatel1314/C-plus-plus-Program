@@ -67,3 +67,30 @@ int main()
     b.search(a_c,n);
     return 0;
 }
+
+/*
+OUTPUT:
+Enter no. of data you wish to enter:3
+Enter account ID:1
+Enter your name:Krish Patel
+Enter the balance:57000
+Enter account ID:2
+Enter your name:Diya Patel
+Enter the balance:80000
+Enter account ID:3
+Enter your name:Rohan Sharma
+Enter the balance:55000
+Account ID:1
+Name:Krish Patel
+Balance:57000
+Account ID:2
+Name:Diya Patel
+Balance:80000
+Account ID:3
+Name:Rohan Sharma
+Balance:55000
+Enter account ID you want to search:1
+Account ID:1
+Name:Krish Patel
+Balance:57000
+*/
