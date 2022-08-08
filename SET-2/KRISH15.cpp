@@ -16,3 +16,12 @@ int main()
     cout<<"::j="<<::j<<endl;
     return 0;
 }
+
+/*
+OUTPUT:
+(Inner block)K=15
+j=20
+::j=13
+(Outer block)j=15
+::j=13
+*/

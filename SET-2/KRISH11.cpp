@@ -9,3 +9,8 @@ int main()
     cout<<"Area of circle="<<3.14*r*r;
     return 0;
 }
+/*
+OUTPUT:
+Enter radius:4.7
+Area of circle=69.3626
+*/

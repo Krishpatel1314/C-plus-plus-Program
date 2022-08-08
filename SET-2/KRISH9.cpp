@@ -10,3 +10,8 @@ int main()
     cout<<"Explicit Conversion:"<<(int)k+3;
     return 0;
 }
+/*
+OUTPUT:
+Implicit Conversion:111
+Explicit Conversion:18
+*/

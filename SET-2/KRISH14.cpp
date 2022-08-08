@@ -43,3 +43,17 @@ int main()
     cout<<j<<"     "<<k<<endl;
     return 0;
 }
+
+/*
+OUTPUT:
+Enter first number:13
+Enter second number:22
+Numbers before swapping:
+13     22
+Numbers after swapping(call by value):
+22     13
+Numbers after swapping(call by reference):
+22     13
+Numbers after swapping(call by address):
+13     22
+*/

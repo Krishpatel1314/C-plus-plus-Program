@@ -11,3 +11,8 @@ int main()
     cout<<"Reference of A and D:"<<r<<" & "<<s;
     return 0;
 }
+/*
+OUTPUT:
+Value of A and D:6 & 13.5
+Reference of A and D:6 & 13.5
+*/

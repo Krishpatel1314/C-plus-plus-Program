@@ -27,3 +27,18 @@ int main()
     }
     return 0;
 }
+/*
+OUTPUT:
+Enter no.  of data you wish to enter:2
+Emter name of student:Krish
+Enter marks of Physics:79
+Enter marks of Maths:85
+Enter marks of Chemistry:91
+Emter name of student:Diya
+Enter marks of Physics:95
+Enter marks of Maths:89
+Enter marks of Chemistry:72
+      Name   Physics     Maths      Chemistry    Total Marks  Percentage(%)
+     Krish        79        85             91            255             85
+      Diya        95        89             72            256        85.3333
+*/
